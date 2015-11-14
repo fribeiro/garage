@@ -1,0 +1,2 @@
+* * * * * /home/pi/garage/network-monitor.sh > /var/log/networkstatus.log 2>&1
+
